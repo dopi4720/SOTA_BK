@@ -1,0 +1,16 @@
+.container{
+    margin: auto;
+    padding-top: 100px;
+}
+
+.btn btn-primary btn-lg{
+    margin-left: 40px;
+}
+
+button{
+    margin-left: 60%;
+}
+
+.container-fluid{
+    margin-left: 90%;
+}
